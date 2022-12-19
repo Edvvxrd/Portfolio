@@ -298,7 +298,7 @@
 								<img class="img-fluid w-100" src="src/img/user.jpg">
 							</div>
 							<h1 class="text-white title bg-black">About</h1>
-							<p class="text-white description bg-black">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p class="text-white description bg-black">I am Edward Joshua, a 21 years old 4th year college student at Central Luzon State University and an aspiring Full Stack Developer, Flexibility and Adapting to the Environment is my greatest assets so come find me on social media, I hope we could work together.</p>
 							<div class="btn btn-outline-light bg-black w-100">Hire Me </div>
 						</div>
 						<div class="col-md-6 col-12 d-flex align-items-end contacts">
