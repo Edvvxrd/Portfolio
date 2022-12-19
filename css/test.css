@@ -1,0 +1,42 @@
+body {
+	height: 100vh;
+	width: 100vw;
+	text-align: center;
+	display: flex;
+	align-items:center;
+	justify-content: center;
+}
+/* background */
+.to-blue {
+	background: blue;
+	transition: all 1s ease;
+}
+.to-red {
+	background: red;
+	transition: all 1s ease;
+}
+.to-yellow {
+	background: yellow;
+	transition: all 1s ease;
+}
+.to-green {
+	background: green;
+	transition: all 1s ease;
+}
+/* font */
+.to-blue-font {
+	color: #000;
+	transition: all 1s ease;
+}
+.to-red-font {
+	color: blue;
+	transition: all 1s ease;
+}
+.to-yellow-font {
+	color: red;
+	transition: all 1s ease;
+}
+.to-green-font {
+	color: orange;
+	transition: all 1s ease;
+}
